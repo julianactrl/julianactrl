@@ -21,7 +21,8 @@ const juli = {
               sports: "Brazilian Jiu-jitsu",
               tourism: "Tourism Degree"
            },
-  personality: "I am a creative, positive, curious person and I love to learn. Fanatic technology and new challenges."
+  personality: "I am a creative, positive, curious person and I love to learn. 
+  Fanatic technology and new challenges.",
   email: "juliana.mg3@gmail.com"
 }
 ```
