@@ -14,14 +14,14 @@
 const juli = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Node, SQL, Postgres],
-  tools: [React, Redux, Express, Bootstrap, Tailwinds, Sequilize],
+  tools: [React, Redux, Express, Bootstrap, Tailwinds, Sequilize, Git, GitHub],
   preprocessors: ["Less", "Sass"],
-  aboutMe: {
-              mother: "Of Luana",
-              sports: "Brazilian Jiu-jitsu",
-              tourism: "Tourism Degree"
+  learning: {
+              code: "Java",
+              tools: "GraphQL",
+              others: "Software design pattern, Photoshop"
            },
-  personality: "I am a creative, positive, curious person and I love to learn. 
+  personality: "I am a creative, positive, self-taught, curious person and I love to learn. 
   Fanatic technology and new challenges.",
   email: "juliana.mg3@gmail.com"
 }
