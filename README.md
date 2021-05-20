@@ -13,7 +13,7 @@
 ```javascript
 const juli = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Node, SQL, Postgres, GIT, Github],
+  code: [Javascript, HTML, CSS, Node, SQL, Postgres, Mongo DB, GIT, Github],
   tools: ["React", "Redux", "Express", "Bootstrap", "Tailwinds", "Sequilize", "CI-CD"],
   preprocessors: ["Less", "Sass"],
   learning: {
