@@ -24,7 +24,7 @@ const juli = {
   personality: "I am a creative, positive, self-taught, curious person and I love to learn. 
   Fanatic technology and new challenges.
   I´ve worked with work agile methodology and unit test.",
-  email: "juliana.mg3@gmail.com"
+  
 }
 ```
 
@@ -32,7 +32,7 @@ const juli = {
 
 ---
 
-⭐️ From [@julianactrl](https://github.com/julianactrl)
+⭐️ You can contact me by e-mail email: juliana.mg3@gmail.com or booking a call https://calendly.com/julianagonzalez
 <!--
 **julianactrl/julianactrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
