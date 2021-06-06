@@ -14,16 +14,15 @@
 const juli = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Node, SQL, Postgres, Mongo DB, GIT, Github],
-  tools: ["React", "Redux", "Express", "Bootstrap", "Tailwinds", "Sequilize", "CI-CD"],
-  preprocessors: ["Less", "Sass"],
+  tools: [React, "Redux, Express, Bootstrap, Tailwinds, Sequilize, CI-CD, Sass],
   learning: {
-              code: "Java",
-              tools: "GraphQL",
-              others: "Software design pattern and Photoshop"
+              Desings: "Software design pattern and Photoshop"
+              paradigms: "OOP"
            },
   personality: "I am a creative, positive, self-taught, curious person and I love to learn. 
   Fanatic technology and new challenges.
-  I´ve worked with work agile methodology and unit test.",
+  I´ve worked with work agile methodology. TDD and git flow.",
+  Take a look: Replit: https://replit.com/@julianactrl
   
 }
 ```
