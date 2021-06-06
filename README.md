@@ -22,7 +22,7 @@ const juli = {
   personality: "I am a creative, positive, self-taught, curious person and I love to learn. 
   Fanatic technology and new challenges.
   I´ve worked with work agile methodology. TDD and git flow.",
-  Take a look: Replit: https://replit.com/@julianactrl
+  Replit: "https://replit.com/@julianactrl"
   
 }
 ```
