@@ -19,7 +19,8 @@ const juli = {
               Desings: "Software design pattern and Photoshop"
               paradigms: "OOP"
            },
-  personality: "I am a creative, positive, self-taught, curious person and I love to learn. 
+  personality: "I am a creative, positive, self-taught, curious person 
+  and I love to learn. 
   Fanatic technology and new challenges.
   I´ve worked with work agile methodology. TDD and git flow.",
   Replit: "https://replit.com/@julianactrl"
@@ -27,11 +28,11 @@ const juli = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😄</em>
 
 ---
 
-⭐️ You can contact me by e-mail email: juliana.mg3@gmail.com or booking a call https://calendly.com/julianagonzalez
+📫 How to reach me: e-mail juliana.mg3@gmail.com or booking a call https://calendly.com/julianagonzalez
 <!--
 **julianactrl/julianactrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
