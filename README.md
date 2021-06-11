@@ -1,6 +1,6 @@
 <h2> Hi, I'm Juliana Gonzalez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Full Stack Developer at <a href="http://www.unb.br">Soy Henry Bootcamp</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em>Full Stack Developer at <a href="hhttps://www.soyhenry.com">Soy Henry Bootcamp</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
 [![Twitter: julianactrl](https://img.shields.io/twitter/follow/julianactrl?style=social)](https://twitter.com/julianactrl)
