@@ -17,7 +17,7 @@ const juli = {
   tools: [React, "Redux, Express, Bootstrap, Tailwinds, Sequilize, CI-CD, Sass],
   learning: {
               Desings: "Software design pattern and Photoshop"
-              paradigms: "OOP"
+              paradigms: "POO"
            },
   personality: "I am a creative, positive, self-taught, curious person 
   and I love to learn. 
