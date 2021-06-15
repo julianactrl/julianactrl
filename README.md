@@ -20,9 +20,12 @@ const juli = {
               Paradigms: "POO & Software design pattern"
            },
   currentlyWorkingOn: "yoAgronomoApp with React-redux, Express and Postgres",
-  personality: "I define myself as creative, team worker, proactive and a learner quickly person. 
-  Fanatic of tech as much new challenges. 
-  I work with agile methodology, TDD and git flow.",
+  personality: {
+                I_define_myself_as: "creative, team worker, proactive 
+                and a learner quickly person. 
+                Fanatic of tech as much new challenges. 
+                I work with agile methodology, TDD and git flow."
+             },
   Replit: "https://replit.com/@julianactrl"
   
 }
