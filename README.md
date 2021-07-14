@@ -15,12 +15,11 @@ const juli = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Node, SQL, Postgres, Mongo DB, GIT, Github],
   tools: [React, Redux, Express, Bootstrap, Tailwinds, Sequilize, Mongoose, Sass],
-  currentlyLearning: {
-              Tech: "Docker, Vue Js, TypeScript, GrapghQL";
+  addingNewSkills: {
+              tech: "Docker, Vue Js, TypeScript, GrapghQL";
            },
-  currentlyWorkingOn: "yoAgronomoApp with React-redux, Express and Postgres",
   personality: {
-                I_define_myself_as: "creative, team worker, proactive 
+                i_am: "creative, team worker, proactive 
                 and a learner quickly person. 
                 Fanatic of tech as much new challenges. 
                 I work with agile methodology and git flow."
