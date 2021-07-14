@@ -16,15 +16,14 @@ const juli = {
   code: [Javascript, HTML, CSS, Node, SQL, Postgres, Mongo DB, GIT, Github],
   tools: [React, Redux, Express, Bootstrap, Tailwinds, Sequilize, Mongoose, Sass],
   currentlyLearning: {
-              Language: "Python",
-              Paradigms: "POO & Software design pattern"
+              Tech: "Docker, Vue Js, TypeScript, GrapghQL";
            },
   currentlyWorkingOn: "yoAgronomoApp with React-redux, Express and Postgres",
   personality: {
                 I_define_myself_as: "creative, team worker, proactive 
                 and a learner quickly person. 
                 Fanatic of tech as much new challenges. 
-                I work with agile methodology, TDD and git flow."
+                I work with agile methodology and git flow."
              },
   Replit: "https://replit.com/@julianactrl"
   
