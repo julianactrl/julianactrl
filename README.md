@@ -16,7 +16,7 @@ const juli = {
   code: [Javascript, HTML, CSS, Node, SQL, Postgres, Mongo DB, GIT, Github],
   tools: [React, Redux, Express, Bootstrap, Tailwinds, Sequilize, Mongoose, Sass],
   addingNewSkills: {
-              tech: "python";
+              tech: ["python", "React-Native", "TypeScript"];
            },
   personality: {
                 i_am: "creative, team worker, proactive 
