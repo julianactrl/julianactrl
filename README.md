@@ -15,16 +15,15 @@ const juli = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Node, SQL, Postgres, Mongo DB, GIT, Github],
   tools: [React, Redux, Express, Bootstrap, Tailwinds, Sequilize, Mongoose, Sass],
-  addingNewSkills: {
-              tech: ["python", "React-Native", "TypeScript"];
+  newTechSkills: {
+              tech: ["Python", "React-Native", "TypeScript"];
            },
   personality: {
-                i_am: "creative, team worker, proactive 
+                aboutMe: "creative, team worker, proactive 
                 and a learner quickly person. 
                 Fanatic of tech as much new challenges. 
                 I work with agile methodology and git flow."
              },
-  Replit: "https://replit.com/@julianactrl"
   
 }
 ```
