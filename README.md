@@ -14,7 +14,7 @@
 const juli = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Node, SQL, Postgres, Mongo DB, GIT, Github],
-  tools: [React, Redux, Express, Bootstrap, Tailwinds, Sequilize, Mongoose, Sass],
+  tools: [React, Redux, Express, Material-Ui, Sequilize, Mongoose],
   newTechSkills: {
               tech: ["Python", "React-Native", "TypeScript"];
            },
