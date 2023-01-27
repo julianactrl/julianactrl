@@ -3,9 +3,6 @@
 <p><em>Full Stack Developer at <a href="https://www.soyhenry.com">Soy Henry Bootcamp</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
-[![Twitter: julianactrl](https://img.shields.io/twitter/follow/julianactrl?style=social)](https://twitter.com/julianactrl)
-[![Linkedin: gonzalezjulianamicaela](https://img.shields.io/badge/-gonzalezjulianamicaela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianamicaelagonzalez/)](https://www.linkedin.com/in/gonzalezjulianamicaela/)
-[![GitHub julianactrl](https://img.shields.io/github/followers/julianactrl?label=follow&style=social)](https://github.com/julianactrl)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
