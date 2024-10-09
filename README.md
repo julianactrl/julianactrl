@@ -16,7 +16,8 @@ const juli = {
   },
   personality: {
     aboutMe: "Creative, team worker, proactive and able to quickly grasp new concepts. 
-    Fanatic of tech as much new challenges. Also, I work with agile methodology and git flow."
+    Fanatic of tech as much new challenges.
+    Also, I work with agile methodology and git flow."
   },
 }
 ```
