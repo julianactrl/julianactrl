@@ -23,6 +23,7 @@ const juli = {
 ```
 
 🔭 I’m currently working as Frontend Sofware Engineer on Mercado Libre, developing micro frontends using react js, monorepos with storybook, and with node js server rendering apps.
+
 🌱 I’m currently learning: JAVA
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😄</em>
